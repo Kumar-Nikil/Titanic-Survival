@@ -58,3 +58,4 @@ An interactive dashboard was created in Tableau to:
 👤 **Created by Nikil Kumar Karani Apparao Ramakrishnan**  
 MS in Business Analytics | DePaul University  
 [LinkedIn](http://www.linkedin.com/in/nikilkumarkr)
+[Tableau Public](https://public.tableau.com/app/profile/nikilkumar2000)
