@@ -1,7 +1,7 @@
 # Machine Learning: Titanic Survival
 <img src="https://images8.alphacoders.com/405/405029.jpg">
 
-## Overview
+## Overview.
 
 The Titanic tragedy was a maritime disaster that occurred on April 15, 1912, when the RMS Titanic, a luxurious British passenger liner, struck an iceberg in the North Atlantic Ocean and sank during its maiden voyage from England to the USA. The Titanic was considered unsinkable, but the collision caused significant damage, and the ship's watertight compartments were breached, leading to flooding and ultimately the ship's sinking. Of the 2,224 passengers and crew on board, more than 1,500 lost their lives, making it one of the deadliest peacetime maritime disasters in history. The tragedy led to the strengthening of maritime regulations.
 
