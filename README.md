@@ -55,8 +55,10 @@ The last model was the random forest model. Again, the data was split, scaled, a
 ![randomforest](https://github.com/ericyang91/Machine_Learning_Titanic_Survival/blob/main/images/randomforest.jpg)
 
 ## Interactive Dashboard
+![image](https://github.com/user-attachments/assets/f9d17115-4f3e-4697-8f32-3df7880beddd)
 
-An [interactive dashboard](https://public.tableau.com/app/profile/ji.yeol.yang/viz/titanic_16825642408080/Dashboard) that visualizes the survival rate vs. input features were created by using Tableau.
+
+An [interactive dashboard](https://public.tableau.com/views/TitanicPassengersOutcomes/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) that visualizes the survival rate vs. input features were created by using Tableau.
 
 ![dash](https://github.com/ericyang91/Machine_Learning_Titanic_Survival/blob/main/images/dash.jpg)
 
